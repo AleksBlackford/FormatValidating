@@ -1,3 +1,1 @@
-#FormatValidating
-
-Учебный репозиторий для ПМ.1
+# ConsoleApp1
